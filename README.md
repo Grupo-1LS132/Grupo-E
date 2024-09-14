@@ -2,6 +2,7 @@
 Repositorio del Grupo E
 
 ---
+**Coordinador:** Cesar Flores (csarf)
 
 ## Clonar-Repositorio
 
